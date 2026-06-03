@@ -19,6 +19,6 @@ reanalysis data.
 
 ## Plots
 ![Anomaly](india_anomaly_1978_2025.png)
-![Spatial](india_spatial_anomaly_updated.png)
-![Heatwave](india_heatwave_updated.png)
+![Spatial](india_spatial_anomaly.png)
+![Heatwave](india_heatwave_days.png)
 ![20yr Difference](india_20yr_difference.png)
